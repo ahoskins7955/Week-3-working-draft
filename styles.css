@@ -3,5 +3,5 @@ body{
   background-image: url("https://i.postimg.cc/4yBMhbFt/game-background.png");
   background-color: #090806;
   background-repeat: no-repeat;
-  background-size: 1920px, 1080px;
+  background-size: cover, cover;
 }
